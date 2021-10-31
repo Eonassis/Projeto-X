@@ -5,7 +5,7 @@ function Home(){
     return (
         <div>
 
-            <h3>Home Eonassis</h3>
+            <h3>Home Eonassis Nova</h3>
             <Contador />
         </div>
 
